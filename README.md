@@ -49,11 +49,6 @@
 *Open to collaborations – let's connect!*  
 
 ---
-
-### Key Formatting Notes:  
-1. **Emoji-Driven Sections**: Borrowed from the screenshot for visual scanning.  
-2. **Hyperlinked Keywords**: Like "Play Store" for live apps (replace `#` with actual links).  
-3. **Compact Timeline**: Highlights recent work first (reverse-chronological).  
-4. **Profile Metrics**: Added "Profile views" to match the screenshot's social proof.  
-
-Would you like to emphasize any specific project more? 🚀
+🛠  Tech Stack
+Python  JavaScript  Java  C  C++  Django  Bootstrap
+HTML  CSS  Git  GitHub  Visual Studio Code  jUnit  NumPy  Pandas  JMH 
