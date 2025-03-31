@@ -1,4 +1,4 @@
-![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+![BannerGIF]([https://www.canva.com/design/DAGjVuzoG2M/sEI_DtgRYvMDsNRzs4J0rg/edit?utm_content=DAGjVuzoG2M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton])
 
 # Hello, I'm Mahmoud Tarek  
 
