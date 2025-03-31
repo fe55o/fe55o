@@ -1,6 +1,8 @@
+![BannerGIF](https://user-images.githubusercontent.com/39513876/112361914-e021f800-8cf9-11eb-9aac-a2b675065afc.gif)
+
 # Hello, I'm Mahmoud Tarek  
 
-🔗 **[LinkedIn](#https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)** | 🏆 **[HackerRank](#https://www.hackerrank.com/profile/goldenflacon483)** **[Leetcode](#https://leetcode.com/u/goldenflacon483/)**
+🔗 **[LinkedIn](#)()** | 🏆 **[[HackerRank](#)](https://www.hackerrank.com/profile/goldenflacon483)** **[Leetcode](#https://leetcode.com/u/goldenflacon483/)**
 
 ---
 
