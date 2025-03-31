@@ -1,6 +1,5 @@
-![BannerGIF]([https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif])
 <div align="center">
-  <img src="https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif" alt="Mahmoud Tarek - Mobile Developer" width="600"/>
+  <img src="https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif" alt="Mahmoud Tarek - Mobile Developer"/>
 </div>
 # Hello, I'm Mahmoud Tarek  
 
