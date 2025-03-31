@@ -2,9 +2,8 @@
   <img src="https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif" alt="Mahmoud Tarek - Mobile Developer"/>
 </div>
 
-🔗 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black) | 
-![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white) | [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
-
+🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/goldenflacon483/)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/goldenflacon483)&nbsp; 
 
 ---
 
