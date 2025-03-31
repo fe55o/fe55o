@@ -38,7 +38,6 @@ I'm a passionate Mobile Developer with expertise in React Native, Android, and F
 
 ## 📫 Get in Touch
 - 📧 Email: [mahmoud.trk.f5r@gmail.com](mailto:mahmoud.trk.f5r@gmail.com)  
-- 🔗 LinkedIn: [Your LinkedIn Profile]  
-- 💻 GitHub: [Your GitHub Profile]  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)  
 
 Feel free to explore my repositories and reach out for collaborations! 🚀
