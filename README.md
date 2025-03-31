@@ -1,6 +1,6 @@
 # Hello, I'm Mahmoud Tarek  
 
-🔗 **[LinkedIn](#)** | 🏆 **[HackerRank](#)** | 🌐 **[Portfolio](#)** | 👀 **Profile views**  
+🔗 **[LinkedIn](#https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)** | 🏆 **[HackerRank](#https://www.hackerrank.com/profile/goldenflacon483)** | 🌐 **[Portfolio](#)** | 👀 **Profile views**  
 
 ---
 
