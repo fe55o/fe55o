@@ -18,17 +18,13 @@
 
 ## 🚀 Live Apps
 
-<div width="60" height="60">
-  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
-</div>
+  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
 **Qaema**  
 📌 Enterprise accounting app  
 🔗 *[Play Store](#) | [App Store](#)*  
 
-<div width="60" height="60">
-  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
-</div>
-### **Qaema**  
+  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
+**Qaema**  
 📌 Enterprise accounting app  
 🔗 *[Play Store](#) | [App Store](#)*
 ---
