@@ -26,9 +26,9 @@
 
 <br/><br/>
 
-<img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
+<img src="https://github.com/fe55o/assets/blob/main/efg-logo.png" alt="EFG - logo" align="left" width="5%"/>
 
-### Qaema
+### EFG Conferences
 📌 Enterprise accounting app  
 🔗 *[Play Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&hl=en) | [App Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&pli=1)*
 
