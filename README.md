@@ -18,7 +18,6 @@
 
 ## 🚀 Live Apps
 
-<img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
 ###Qaema
 
 
@@ -28,7 +27,6 @@
 
 <br/><br/>
 
-<img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
 ###Qaema
 
 📌 Enterprise accounting app  
