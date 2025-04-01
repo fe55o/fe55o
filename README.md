@@ -4,10 +4,10 @@
 
 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/goldenflacon483/)&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/goldenflacon483)&nbsp; 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)&nbsp; 
 
----
-
-**Mobile Developer (React Native & Android)** @ThinkTech | Helwan CS Grad | Building secure, scalable apps with a focus on health tech and fintech. Experienced in full project lifecycles from bootstrapping to CI/CD deployment.  
+**👋 About Me**
+*Mobile Developer (React Native & Android)* @ThinkTech | Helwan CS Grad | Building secure, scalable apps with a focus on health tech and fintech. Experienced in full project lifecycles from bootstrapping to CI/CD deployment.  
 
 - **Mobile**: React Native (Expo/CLI), Android (Java), Flutter  
 - **Frontend**: JavaScript, React, HTML/CSS  
@@ -17,23 +17,24 @@
 
 ---
 
-## � Live Apps  
-https://github.com/fe55o/assets/blob/main/qaema-logo.png
+<div width=100 height=100>
+  <img src="https://github.com/fe55o/assets/blob/main/app-store.png" alt="Qaema - logo"/>
+</div>
+## Live Apps  
 
-<div>
+<div width=60 height=60>
   <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
+</div>
 ### **Qaema**  
-📌 Enterprise accounting app with biometric auth & anti-tampering  
-🔗 *[Play Store](#) | [App Store](#)()*  
+📌 Enterprise accounting app  
+🔗 *[Play Store](#) | [App Store](#)*  
 
-### **ECR**  
-📌 Android POS system for supermarkets (Mada integration)  
-🔗 *[Play Store](#)*  
-
-### **Dietary Observer A+**  
-📌 Health-focused OCR nutrition scanner (Graduation Project)  
-🔗 *[GitHub Repo](#)*  
-
+<div width=60 height=60>
+  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
+</div>
+### **Qaema**  
+📌 Enterprise accounting app  
+🔗 *[Play Store](#) | [App Store](#)*  
 ---
 
 ## 🔥 Latest Contributions  
