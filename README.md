@@ -2,14 +2,18 @@
   <img src="https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif" alt="Mahmoud Tarek - Mobile Developer"/>
 </div>
 
+<div align="center">
 🔗 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/goldenflacon483/)&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/goldenflacon483)&nbsp; 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)&nbsp; 
+</div>
 
-**👋 About Me**
-*Mobile Developer (React Native & Android)* @ThinkTech | Helwan CS Grad | Building secure, scalable apps with a focus on health tech and fintech. Experienced in full project lifecycles from bootstrapping to CI/CD deployment.  
+---
 
-- **Mobile**: React Native (Expo/CLI), Android (Java), Flutter  
+## 👋 About Me
+*Mobile Developer (React Native & Android)* Helwan CS Grad | Building secure, scalable apps with a focus on health tech and fintech. Experienced in full project lifecycles from bootstrapping to CI/CD deployment.  
+
+- **Mobile**: React Native (Expo/CLI), Android (Java, Kotlin), Flutter  
 - **Frontend**: JavaScript, React, HTML/CSS  
 - **DevOps**: Azure Pipelines, GitHub Actions  
 
@@ -17,30 +21,19 @@
 
 ## 🚀 Live Apps
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-
-<div style="text-align: center; width: 200px;">
-  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" width="80" height="80" alt="Qaema Logo">
-  <h3>Qaema</h3>
-  <p>📌 Enterprise accounting app</p>
-  <p>🔗 <a href="#">Play Store</a> | <a href="#">App Store</a></p>
+<div width="60" height="60">
+  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
 </div>
+**Qaema**  
+📌 Enterprise accounting app  
+🔗 *[Play Store](#) | [App Store](#)*  
 
-<div style="text-align: center; width: 200px;">
-  <img src="https://github.com/fe55o/assets/blob/main/ecr-logo.png" width="80" height="80" alt="ECR Logo">
-  <h3>ECR</h3>
-  <p>📌 Android POS system</p>
-  <p>🔗 <a href="#">Play Store</a></p>
+<div width="60" height="60">
+  <img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo"/>
 </div>
-
-<div style="text-align: center; width: 200px;">
-  <img src="https://github.com/fe55o/assets/blob/main/dietary-logo.png" width="80" height="80" alt="Dietary Observer Logo">
-  <h3>Dietary Observer A+</h3>
-  <p>📌 Nutrition scanner</p>
-  <p>🔗 <a href="#">GitHub Repo</a></p>
-</div>
-
-</div> 
+### **Qaema**  
+📌 Enterprise accounting app  
+🔗 *[Play Store](#) | [App Store](#)*
 ---
 
 ## 📬 Get In Touch  
