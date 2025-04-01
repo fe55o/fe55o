@@ -22,7 +22,7 @@
 
 ### Qaema
 📌 Enterprise accounting app  
-🔗 *[Play Store](#) | [App Store](#)*  
+🔗 *[Play Store](https://play.google.com/store/apps/details?id=com.neotek.qaema&hl=en) | [App Store](https://apps.apple.com/eg/app/qaema-accounting-system/id6544789609)*  
 
 <br/><br/>
 
@@ -30,7 +30,7 @@
 
 ### Qaema
 📌 Enterprise accounting app  
-🔗 *[Play Store](#) | [App Store](#)*
+🔗 *[Play Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&hl=en) | [App Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&pli=1)*
 
 
 ## 📬 Get In Touch  
