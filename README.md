@@ -18,10 +18,11 @@
 ---
 
 ## � Live Apps  
+https://github.com/fe55o/assets/blob/main/qaema-logo.png
 
 ### **Qaema**  
 📌 Enterprise accounting app with biometric auth & anti-tampering  
-🔗 *[Play Store](#) | [App Store](#)*  
+🔗 *[Play Store](#) | [App Store](#)(https://github.com/fe55o/assets/blob/main/qaema-logo.png)*  
 
 ### **ECR**  
 📌 Android POS system for supermarkets (Mada integration)  
