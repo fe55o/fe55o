@@ -5,6 +5,7 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.hackerrank.com/profile/goldenflacon483"><img src="https://img.shields.io/badge/hackerRank-%23000?style=flat&logo=HackerRank&logoColor=#00EA64"/></a>
+  <a href="mailto:mahmoud.trk.f5r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/goldenflacon483/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
 
@@ -31,13 +32,6 @@
 ### EFG Conferences
 📌 Enterprise accounting app  
 🔗 *[Play Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&hl=en) | [App Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&pli=1)*
-
-
-## 📬 Get In Touch  
-📧 **Email**: [mahmoud.trk.f5r@gmail.com](mailto:mahmoud.trk.f5r@gmail.com)  
-💻 **GitHub**: [YourProfile](#)  
-
-*Open to collaborations – let's connect!*  
 
 ---
 ### 🛠 &nbsp;Tech Stack
