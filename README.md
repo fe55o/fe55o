@@ -18,17 +18,15 @@
 
 ## 🚀 Live Apps
 
-###Qaema
-
-
-
+<img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
+### Qaema
 📌 Enterprise accounting app  
 🔗 *[Play Store](#) | [App Store](#)*  
 
 <br/><br/>
 
-###Qaema
-
+<img src="https://github.com/fe55o/assets/blob/main/qaema-logo.png" alt="Qaema - logo" align="left" width="5%"/>
+### Qaema
 📌 Enterprise accounting app  
 🔗 *[Play Store](#) | [App Store](#)*
 
