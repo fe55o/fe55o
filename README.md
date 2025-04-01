@@ -29,7 +29,7 @@
 <img src="https://github.com/fe55o/assets/blob/main/efg-logo.png" alt="EFG - logo" align="left" width="5%"/>
 
 ### EFG Conferences
-📌 Events management app  
+📌 Events management app
 🔗 *[Play Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&hl=en) | [App Store](https://play.google.com/store/apps/details?id=com.project.efg.ems&pli=1)*
 
 ---
