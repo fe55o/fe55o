@@ -2,9 +2,11 @@
   <img src="https://github.com/fe55o/assets/blob/main/Purple%20and%20Navy%20Blue%20Animated%20Background%20and%20Neon%20Typography%20Twitch%20Offline%20Banner.gif" alt="Mahmoud Tarek - Mobile Developer"/>
 </div>
 
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/goldenflacon483/)
-  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/goldenflacon483)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/)
+<p align="center">
+    <a href="https://www.linkedin.com/in/mahmoud-tarek-0b863a1aa/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/profile/goldenflacon483"><img src="https://img.shields.io/badge/hackerRank-%23000?style=flat&logo=HackerRank&logoColor=#00EA64"/></a>
+  <a href="https://leetcode.com/u/goldenflacon483/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ## 👋 About Me
 *Mobile Developer (React Native & Android)* Helwan CS Grad | Building secure, scalable apps with a focus on health tech and fintech. Experienced in full project lifecycles from bootstrapping to CI/CD deployment.  
